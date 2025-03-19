@@ -1,0 +1,7 @@
+This is Sam's notes that you will be studying :
+It will contain :
+-java essentials
+-git
+-maven
+-design principles and design pattern
+-spring and spring boot
